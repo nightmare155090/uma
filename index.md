@@ -12,6 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 border="10"/></a>
 
 
+$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$
 
 
 
@@ -19,8 +20,7 @@ border="10"/></a>
 
 
 
-
-flow
+```flow
 st=>star: 開始
 op1=>operation:訓練
 cond1=>condition:成功
@@ -30,7 +30,7 @@ e=>end:結束
 st->op1->cond1
 cond1(yes)->e
 cond1(no)->sub1->op1
-
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
