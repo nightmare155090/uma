@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/nightmare155090/uma/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# 40717015
+# *40717015
 ![Cool](https://pbs.twimg.com/media/EjrJlffVcAE6kmo.jpg)
 
 
@@ -20,7 +20,7 @@ border="10"/></a>
 
 
 
-```flow
+flow
 st=>star: 開始
 op1=>operation:
 cond1=>condition:
@@ -30,7 +30,7 @@ e=>end:
 st->op1->cond1
 cond1(yes)->e
 cond1(no)->sub1->op1
-```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
