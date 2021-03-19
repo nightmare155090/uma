@@ -3,6 +3,12 @@
 You can use the [editor on GitHub](https://github.com/nightmare155090/uma/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Cool](https://pbs.twimg.com/media/EjrJlffVcAE6kmo.jpg)
+
+
+<a href="https://www.youtube.com/watch?v=rdFpyKAwwVQ" targ="_blank"
+
+
 
 ### Markdown
 
@@ -11,10 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-![Cool](https://pbs.twimg.com/media/EjrJlffVcAE6kmo.jpg)
 
-
-<a href="https://www.youtube.com/watch?v=rdFpyKAwwVQ" targ="_blank"
 
 # Header 1
 ## Header 2
