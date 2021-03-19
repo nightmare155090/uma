@@ -22,10 +22,10 @@ border="10"/></a>
 
 flow
 st=>star: 開始
-op1=>operation:
-cond1=>condition:
-sub1=>subroutine:
-e=>end:
+op1=>operation:訓練
+cond1=>condition:成功
+sub1=>subroutine:失敗
+e=>end:結束
 
 st->op1->cond1
 cond1(yes)->e
