@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Cool](https://pbs.twimg.com/media/EjrJlffVcAE6kmo.jpg)
 
 
-<a href="https://www.youtube.com/watch?v=rdFpyKAwwVQ" targ="_blank"<img src="https://pbs.twimg.com/media/ErwX40SVkAAWPGJ.jpg" alt="優秀素質" width="240" height="180"
+<a href="https://www.youtube.com/watch?v=rdFpyKAwwVQ" targ="_blank"<img src="https://pbs.twimg.com/media/ErwX40SVkAAWPGJ.jpg"
 border="10"/></a>
 
 
