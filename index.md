@@ -8,11 +8,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Cool](https://pbs.twimg.com/media/EjrJlffVcAE6kmo.jpg)
 
 
-<a href="https://www.youtube.com/watch?v=rdFpyKAwwVQ" targ="_blank"><img src="https://pbs.twimg.com/media/ErwX40SVkAAWPGJ.jpg"
+<a href="https://www.youtube.com/watch?v=RzFwZksgtw0" targ="_blank"><img src="https://pbs.twimg.com/media/ErwX40SVkAAWPGJ.jpg"
 border="10"/></a>
 
 
 
+
+
+
+
+
+
+
+```flow
+st=>star: 開始
+op1=>operation:
+cond1=>condition:
+sub1=>subroutine:
+e=>end:
+
+st->op1->cond1
+cond1(yes)->e
+cond1(no)->sub1->op1
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
