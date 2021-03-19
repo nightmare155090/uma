@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages
-
+ 
 You can use the [editor on GitHub](https://github.com/nightmare155090/uma/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# *40717015
+# 40717015
 ![Cool](https://pbs.twimg.com/media/EjrJlffVcAE6kmo.jpg)
 
 
@@ -13,6 +13,10 @@ border="10"/></a>
 
 
 $\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$
+
+$$
+x = a_0 + \cfrac{1^2}{a_1 + \cfrac{2^2}{a_2 + \cdots}}
+$$
 
 
 
