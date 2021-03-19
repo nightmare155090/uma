@@ -11,20 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+![Cool](https://pbs.twimg.com/media/EjrJlffVcAE6kmo.jpg)
+
+
+<a href="https://www.youtube.com/watch?v=rdFpyKAwwVQ" targ="_blank"
+
 # Header 1
 ## Header 2
 ### Header 3
 
 - Bulleted
 - List
-
-![Cool](https://pbs.twimg.com/media/EjrJlffVcAE6kmo.jpg)
-
-
-<a href="https://www.youtube.com/watch?v=rdFpyKAwwVQ" targ="_blank"
-
-
-
 
 
 1. Numbered
